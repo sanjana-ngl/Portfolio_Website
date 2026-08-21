@@ -9,6 +9,7 @@ export const locations = [
     hotspot: { left: 61, top: 55, width: 9, height: 13 },
     description: 'A glimpse into the developer behind the kingdom.',
     content: [
+      'I am Sanjana Nagarajan',
       'I am a Computer Science and Engineering student at VIT Chennai, passionate about building practical software and exploring AI-powered solutions.',
       'I enjoy turning ideas into working products, from full-stack web applications to intelligent systems.',
       'Currently, I am strengthening my foundations in programming, problem solving, web development, and machine learning.'

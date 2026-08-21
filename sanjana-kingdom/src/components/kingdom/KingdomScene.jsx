@@ -24,6 +24,7 @@ function KingdomScene({ locations, hoveredLocation, selectedLocation, onHover, o
           />
         )
       })}
+      <p className="map-instruction">Hover over the blue region to view</p>
     </section>
   )
 }
